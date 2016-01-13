@@ -1,10 +1,13 @@
 {
-    "name": "illuminate/html",
+    "name": "bobkosse/html",
     "license": "MIT",
     "authors": [
         {
             "name": "Taylor Otwell",
             "email": "taylorotwell@gmail.com"
+        }, {
+            "name": "Bob Kosse",
+            "email": "b.kosse@dareconcepts.nl"
         }
     ],
     "require": {
