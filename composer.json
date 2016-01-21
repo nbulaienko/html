@@ -1,13 +1,13 @@
 {
-    "name": "bobkosse/html",
+    "name": "nbulaienko/html",
     "license": "MIT",
     "authors": [
         {
             "name": "Taylor Otwell",
             "email": "taylorotwell@gmail.com"
         }, {
-            "name": "Bob Kosse",
-            "email": "b.kosse@dareconcepts.nl"
+            "name": "Nickolay Bulaienko",
+            "email": "nbulaienko@gmail.com"
         }
     ],
     "require": {
